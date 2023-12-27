@@ -1,0 +1,33 @@
+.background-container {
+    background-image: url('./img/contact.jpg');
+    background-size: cover; /* A háttérkép méretét a konténerhez igazítja */
+    background-position: center; /* A háttérkép középre igazítása */
+    height: 100vh; /* A konténer magassága 100% a nézet magasságához */
+    /* Egyéb stílusok vagy formázások */
+  }
+  /* app.component.css */
+
+nav {
+    display: flex;
+    background-color: #333;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  a:hover {
+    background-color: #555;
+  }
+  /* app.component.css */
+
+
+
+
+
+
+
+
+
